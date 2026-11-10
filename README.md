@@ -27,3 +27,11 @@ API-тесты на Cypress для приложения `springmvc-1.0-SNAPSHOT.
 ## Запуск
 
     npx cypress run --browser chrome
+
+## Dashboard
+
+Результаты прогонов в Cypress Cloud: https://cloud.cypress.io/projects/2a37fk
+
+Запуск с записью результатов (ключ записи хранится только у владельца проекта):
+
+    npx cypress run --browser chrome --record --key <RECORD_KEY>
