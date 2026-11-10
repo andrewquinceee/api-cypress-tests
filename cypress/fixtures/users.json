@@ -1,0 +1,10 @@
+{
+  "newUser": {
+    "firstName": "Ivan",
+    "surName": "Petrov"
+  },
+  "updatedUser": {
+    "firstName": "Petr",
+    "surName": "Ivanov"
+  }
+}
